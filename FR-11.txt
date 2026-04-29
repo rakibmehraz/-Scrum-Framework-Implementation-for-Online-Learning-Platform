@@ -1,0 +1,1 @@
+As a student i want to view scoreboard so that I see my ranking
