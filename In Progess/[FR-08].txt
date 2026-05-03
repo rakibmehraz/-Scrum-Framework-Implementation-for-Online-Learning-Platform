@@ -1,0 +1,5 @@
+Assigned To: Rimon
+Status: In Progress
+
+Description:
+Updated workflow simulation task for FR-08.As a student i want to join practice lab so that I gain hands-on experience
