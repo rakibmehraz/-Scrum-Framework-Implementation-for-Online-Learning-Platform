@@ -1,1 +1,6 @@
-as a student i want to submit flag so that I complete challenge
+Assigned To: Rimon
+Status: In Progress
+
+Description:
+Updated workflow simulation task for FR-10.txt
+
