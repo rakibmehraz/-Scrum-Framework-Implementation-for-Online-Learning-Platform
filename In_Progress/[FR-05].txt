@@ -1,1 +1,13 @@
-as a student i want to Browse courses so that I can find courses
+Course Enrollment
+Requirement ID: FR‑05
+Description: Enable students to enroll in available courses.
+Scope: Students registered on the platform.
+Use Case:
+
+Student browses course catalog.
+
+Student clicks “Enroll” and system adds them to the course roster.
+Test Case:
+
+Given a student, when they enroll in a course, then the system should confirm enrollment and show the course in their dashboard.
+Status: In Progress

@@ -1,1 +1,13 @@
-As a student I want to Update profile so that I can correct my info
+Role‑Based Access Control
+Requirement ID: FR‑04
+Description: Implement role‑based access (student, teacher, admin) with different permissions.
+Scope: All users depending on assigned role.
+Use Case:
+
+Admin assigns roles to users.
+
+System enforces permissions (e.g., only teachers can upload courses).
+Test Case:
+
+Given a user with “student” role, when they try to access admin features, then the system should deny access.
+Status: In Progress
