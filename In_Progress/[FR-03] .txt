@@ -1,0 +1,15 @@
+Profile Update
+Requirement ID: FR‑03
+Description: Allow users to view and update their personal profile information (name, email, password, etc.).
+Scope: Registered users of the platform.
+Use Case:
+
+User navigates to “Profile” section.
+
+User edits details and saves changes.
+
+System validates and updates the database.
+Test Case:
+
+Given a logged‑in user, when they update their profile, then the system should save and display the new information.
+Status: In Progress

@@ -1,0 +1,13 @@
+FR‑01: User Registration
+
+Description: Allow new users to register with valid credentials (username, email, password).
+
+Source (Scope): 1
+
+Related Use Case: Register Account
+
+Test Case ID: TC‑01
+
+Status: Pending → In Progress once you start editing.
+
+Notes: Include validation rules (e.g., unique email, password strength).

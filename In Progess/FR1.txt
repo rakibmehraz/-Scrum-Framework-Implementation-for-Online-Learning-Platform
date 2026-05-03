@@ -1,1 +1,0 @@
-As a student I want to Register an account So that I can access the platform.
