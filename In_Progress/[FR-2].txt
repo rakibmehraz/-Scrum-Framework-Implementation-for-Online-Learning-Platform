@@ -1,0 +1,13 @@
+FR‑02: User Login Authentication
+
+Description: Authenticate users with registered credentials.
+
+Source (Scope): 1
+
+Related Use Case: Login
+
+Test Case ID: TC‑02
+
+Status: Pending
+
+Notes: Handle incorrect credentials, lockout after multiple failed attempts.
